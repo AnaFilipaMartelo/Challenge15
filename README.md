@@ -8,4 +8,6 @@ Project Deliverables:
 
 - **Demo Videos or GIFs**:
   - **Demo of Robo Advisor Interaction**: A short video demonstrating the user's interaction with the robo advisor through the "Test bot" pane. Showcase how the bot engages in a conversation to gather requirements and provide investment recommendations.
+    ![Demo 1 of Robo Advisor Interaction](TestBot1.gif) 
   - **Demo of Lambda Function Integration**: Another video or GIF illustrating the integration of the Amazon Lambda function with the bot. Highlight the seamless flow of data between the bot and the Lambda function, resulting in accurate and personalized investment advice.
+  ![Demo 2 of Robo Advisor Interaction](TestBot2.gif)
